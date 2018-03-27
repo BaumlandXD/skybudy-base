@@ -1,1 +1,1 @@
-# <b size="24">lol</b>
+# <b>This is the basic plugin of the "SkyBudy.de Cloud network"</b>
